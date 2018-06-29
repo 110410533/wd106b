@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="zh-tw" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8"/>
+    <title>南極的精靈</title>
+    <style>
+        #k {margin-top: 0px;
+            margin-bottom: 0px;}
+    </style>
+  </head>
+  <body bgcolor="#ccffff">
+   
+   <p align=center id=k>
+   <img src="https://lh3.googleusercontent.com/AGjXSydcWCH3gPZaLm3upT73IFZcBfIWzMdFIDWRiSeRKKVcVnJrogIOUaHAvO-P86lQFQ=s170">
+   </p>
+   <P><font face=新細明體 color="#0202da">世界上約有17種企鵝，分布南半球，佔南極地區85%的海鳥數量，換句話說，北半球並沒有企鵝。企鵝常以極大的數目的族群出現，他們雖屬鳥類，卻不會飛行，主食是小魚和磷蝦，天敵是海豹及殺人鯨，而賊鷗會攻擊其幼雛和捕食企鵝的蛋。</font></P>  
+   
+   <ul>
+     <li><a href="#帝王企鵝" font color="#996633">帝王企鵝</a></li>
+     <li><a href="#跳岩企鵝" font color="#996633">跳岩企鵝</a></li>
+     <li><a href="#頰條企鵝" font color="#996633">頰條企鵝</a></li>
+   </ul>
+   
+   <marquee face=標楷體 scrollamount=8 bgcolor=#ffcc00 style="color: #ff66ff">大地之愛、大地之美，讓我們共賞南極的可愛精靈</marquee>
+    
+    <dl>
+     <img src="https://lh6.googleusercontent.com/-zjiVBt86sm4/TXJrHmmtBrI/AAAAAAAAAUo/5iBqM46rKcU/s1600/i1538553.jpg" width="300" height="200" align="left">
+         <dt><b><a id="帝王企鵝"><font color=#0202da>帝王企鵝</font></a></b></dt>
+         <dd><p>帝王企鵝是世界中體型最大的企鵝，其外表的特徵是眼睛旁及脖子處有亮黃色或亮橘色的羽毛，看起來非常雍容華貴。牠們是唯一無須做季節性遷移的高等溫血動物，目前在南極大陸沿岸有 42 個棲息地，其總數約 40 萬隻，是南極地區數目最少的企鵝。</p></dd>
+         <br><br><br><br><br><br><br>
+     <img src="https://media.oceanpark.com.hk/files/s3fs-public/Southern%20Rockhopper%20Penguin_1_v2.jpg" width="300" height="200" align="left">
+         <dt><b><a id="跳岩企鵝"><font color=#0202da>跳岩企鵝</font></a></b></dt>
+         <dd><p>跳岩企鵝只分佈在亞南極群島，總數約 750 萬隻，目前因在某些地方的數量急速減少而受到關注。牠們的脾氣爆躁且兇悍，頭部兩旁有著不相連的黃色流蘇裝飾，其外表和體型與馬可羅尼企鵝相似。牠們通常築巢在鬆動的石塊或陡峭岩壁間的洞穴，有雙強而有力的腳，因擅於跳躍進出而得名，倘若有其他生物企圖接近，牠們會毫不客氣地用堅硬銳利的喙展開攻擊。</p></dd>
+        <br><br><br><br><br><br>
+     <img src="http://5b0988e595225.cdn.sohucs.com/images/20180104/9666be5c605b4fa1a7e88b1c3ce15739.jpeg" width="300" height="200" align="left">
+     <dt><b><a id="頰條企鵝"><font color=#0202da>頰條企鵝</font></a></b></dt>
+         <dd><p>頰條企鵝主要棲息在南極半島北端西岸的南雪特蘭群島及亞南極島嶼，數量在馬可羅尼企鵝之後，位居第二，約有 1400 萬隻。牠們的外貌與阿德利企鵝相似，最大的特徵是在兩頰及下顎處有一條黑色細帶圍繞，狀似帽子的頷帶。頰條企鵝常出現在浮冰上，喜歡築巢在岩石陡坡處，其潛水深度可達 100 公尺。</p></dd>
+    </dl>
+   
+  </body>
+  </html>
